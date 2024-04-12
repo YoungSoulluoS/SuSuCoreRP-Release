@@ -1,0 +1,2 @@
+# SuSuCoreRP-Release
+For downloads
